@@ -1,6 +1,14 @@
 # NL-Garage
 FiveM Garage
 
+## Showcase
+
+- Screenshot
+https://imgur.com/fP8SRKv.jpg
+
+- Video
+https://streamable.com/3llza6
+
 ## Download & Installation
 
 ### Using Git
